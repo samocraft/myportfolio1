@@ -2375,7 +2375,7 @@ body .twitter svg {
 .img-wrapper {
   position: relative;
   width: 100%;
-  height: 200px; /* Fixed height for the cropped images */
+  height: 195px; /* Fixed height for the cropped images */
   background-size: cover;
   background-position: center center;
 }
